@@ -42,7 +42,7 @@ class PokemonTile extends StatelessWidget {
           children: [
             Text(
               pokemon.name,
-              maxLines: 3,
+              maxLines: 1,
               style: tileTextStyle.copyWith(
                 fontSize: 18.0,
               ),
@@ -61,7 +61,7 @@ class PokemonTile extends StatelessWidget {
               children: [
                 Padding(
                     padding: const EdgeInsets.only(top: 20),
-                    child: Text(pokemon.number,
+                    child: Text("#${pokemon.number}",
                         style: subtitleTextStyle.copyWith(
                           fontSize: 10,
                         ))),

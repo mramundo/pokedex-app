@@ -1,8 +1,8 @@
 import json
 from datetime import datetime
 
-input_json_file = './json/pokedex-pokemon-com.json'
-output_json_file = './json/pokedex.json'
+input_json_file = './resources/pokedex-pokemon-com.json'
+output_json_file = './resources/pokedex.json'
 debug = True
 
 

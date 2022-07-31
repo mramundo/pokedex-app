@@ -17,6 +17,7 @@ TextStyle bodyTextStyle = GoogleFonts.robotoMono(
 TextStyle subtitleTextStyle = GoogleFonts.robotoMono(
   fontSize: 20,
   fontWeight: FontWeight.w400,
+  height: 1.2,
   color: secondaryTextColor,
 );
 

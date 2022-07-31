@@ -1,5 +1,5 @@
 name: pokedex_app
-description: PokeDEX
+description: dex
 publish_to: "none"
 version: 1.0.0+1
 environment:
@@ -13,6 +13,8 @@ dependencies:
   google_fonts: ^3.0.1
   intl: ^0.17.0
   flutter_staggered_grid_view: ^0.6.2
+  flutter_launcher_icons: ^0.9.3
+  flutter_native_splash: ^2.2.6
 
 dev_dependencies:
   flutter_lints: ^2.0.1
@@ -23,8 +25,21 @@ flutter:
   uses-material-design: true
   assets:
     - assets/
+    - assets/icons/
     - assets/images/
     - assets/images/normal/
     - assets/images/shiny/
-    - assets/images/sprites/
     - assets/json/
+    - assets/splash/
+
+flutter_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: "assets/icons/app-icon.png"
+  adaptive_icon_backgorund: "#FFFFFF"
+  adaptive_icon_foreground: "assets/icons/app-icon-foreground.png"
+
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: "assets/splash/splash.png"

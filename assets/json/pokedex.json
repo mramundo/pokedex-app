@@ -6,8 +6,16 @@
       "code": "bulbasaur",
       "name": "Bulbasaur",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["grass", "poison"],
-      "weakness": ["fire", "psychic", "flying", "ice"],
+      "type": [
+        "grass",
+        "poison"
+      ],
+      "weakness": [
+        "fire",
+        "psychic",
+        "flying",
+        "ice"
+      ],
       "weight": 6894,
       "height": 71.12,
       "sprite": "sprites/bulbasaur.png",
@@ -20,8 +28,16 @@
       "code": "ivysaur",
       "name": "Ivysaur",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["grass", "poison"],
-      "weakness": ["fire", "psychic", "flying", "ice"],
+      "type": [
+        "grass",
+        "poison"
+      ],
+      "weakness": [
+        "fire",
+        "psychic",
+        "flying",
+        "ice"
+      ],
       "weight": 13018,
       "height": 99.06,
       "sprite": "sprites/ivysaur.png",
@@ -34,8 +50,16 @@
       "code": "venusaur",
       "name": "Venusaur",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["grass", "poison"],
-      "weakness": ["fire", "psychic", "flying", "ice"],
+      "type": [
+        "grass",
+        "poison"
+      ],
+      "weakness": [
+        "fire",
+        "psychic",
+        "flying",
+        "ice"
+      ],
       "weight": 100018,
       "height": 200.66,
       "sprite": "sprites/venusaur.png",
@@ -48,8 +72,14 @@
       "code": "charmander",
       "name": "Charmander",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["fire"],
-      "weakness": ["water", "ground", "rock"],
+      "type": [
+        "fire"
+      ],
+      "weakness": [
+        "water",
+        "ground",
+        "rock"
+      ],
       "weight": 8482,
       "height": 60.96,
       "sprite": "sprites/charmander.png",
@@ -62,8 +92,14 @@
       "code": "charmeleon",
       "name": "Charmeleon",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["fire"],
-      "weakness": ["water", "ground", "rock"],
+      "type": [
+        "fire"
+      ],
+      "weakness": [
+        "water",
+        "ground",
+        "rock"
+      ],
       "weight": 19005,
       "height": 109.22,
       "sprite": "sprites/charmeleon.png",
@@ -76,8 +112,15 @@
       "code": "charizard",
       "name": "Charizard",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["fire", "flying"],
-      "weakness": ["water", "electric", "rock"],
+      "type": [
+        "fire",
+        "flying"
+      ],
+      "weakness": [
+        "water",
+        "electric",
+        "rock"
+      ],
       "weight": 90493,
       "height": 170.18,
       "sprite": "sprites/charizard.png",
@@ -90,8 +133,13 @@
       "code": "squirtle",
       "name": "Squirtle",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water"],
-      "weakness": ["grass", "electric"],
+      "type": [
+        "water"
+      ],
+      "weakness": [
+        "grass",
+        "electric"
+      ],
       "weight": 8981,
       "height": 50.8,
       "sprite": "sprites/squirtle.png",
@@ -104,8 +152,13 @@
       "code": "wartortle",
       "name": "Wartortle",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water"],
-      "weakness": ["grass", "electric"],
+      "type": [
+        "water"
+      ],
+      "weakness": [
+        "grass",
+        "electric"
+      ],
       "weight": 22498,
       "height": 99.06,
       "sprite": "sprites/wartortle.png",
@@ -118,8 +171,13 @@
       "code": "blastoise",
       "name": "Blastoise",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water"],
-      "weakness": ["grass", "electric"],
+      "type": [
+        "water"
+      ],
+      "weakness": [
+        "grass",
+        "electric"
+      ],
       "weight": 85503,
       "height": 160.02,
       "sprite": "sprites/blastoise.png",
@@ -132,8 +190,14 @@
       "code": "caterpie",
       "name": "Caterpie",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["bug"],
-      "weakness": ["fire", "flying", "rock"],
+      "type": [
+        "bug"
+      ],
+      "weakness": [
+        "fire",
+        "flying",
+        "rock"
+      ],
       "weight": 2903,
       "height": 30.48,
       "sprite": "sprites/caterpie.png",
@@ -146,8 +210,14 @@
       "code": "metapod",
       "name": "Metapod",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["bug"],
-      "weakness": ["fire", "flying", "rock"],
+      "type": [
+        "bug"
+      ],
+      "weakness": [
+        "fire",
+        "flying",
+        "rock"
+      ],
       "weight": 9888,
       "height": 71.12,
       "sprite": "sprites/metapod.png",
@@ -160,8 +230,17 @@
       "code": "butterfree",
       "name": "Butterfree",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["bug", "flying"],
-      "weakness": ["fire", "flying", "electric", "ice", "rock"],
+      "type": [
+        "bug",
+        "flying"
+      ],
+      "weakness": [
+        "fire",
+        "flying",
+        "electric",
+        "ice",
+        "rock"
+      ],
       "weight": 31978,
       "height": 109.22,
       "sprite": "sprites/butterfree.png",
@@ -174,8 +253,16 @@
       "code": "weedle",
       "name": "Weedle",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["bug", "poison"],
-      "weakness": ["fire", "psychic", "flying", "rock"],
+      "type": [
+        "bug",
+        "poison"
+      ],
+      "weakness": [
+        "fire",
+        "psychic",
+        "flying",
+        "rock"
+      ],
       "weight": 3220,
       "height": 30.48,
       "sprite": "sprites/weedle.png",
@@ -188,8 +275,16 @@
       "code": "kakuna",
       "name": "Kakuna",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["bug", "poison"],
-      "weakness": ["fire", "psychic", "flying", "rock"],
+      "type": [
+        "bug",
+        "poison"
+      ],
+      "weakness": [
+        "fire",
+        "psychic",
+        "flying",
+        "rock"
+      ],
       "weight": 9979,
       "height": 60.96,
       "sprite": "sprites/kakuna.png",
@@ -202,8 +297,16 @@
       "code": "beedrill",
       "name": "Beedrill",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["bug", "poison"],
-      "weakness": ["fire", "psychic", "flying", "rock"],
+      "type": [
+        "bug",
+        "poison"
+      ],
+      "weakness": [
+        "fire",
+        "psychic",
+        "flying",
+        "rock"
+      ],
       "weight": 29484,
       "height": 99.06,
       "sprite": "sprites/beedrill.png",
@@ -216,8 +319,15 @@
       "code": "pidgey",
       "name": "Pidgey",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["normal", "flying"],
-      "weakness": ["electric", "ice", "rock"],
+      "type": [
+        "normal",
+        "flying"
+      ],
+      "weakness": [
+        "electric",
+        "ice",
+        "rock"
+      ],
       "weight": 1814,
       "height": 30.48,
       "sprite": "sprites/pidgey.png",
@@ -230,8 +340,15 @@
       "code": "pidgeotto",
       "name": "Pidgeotto",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["normal", "flying"],
-      "weakness": ["electric", "ice", "rock"],
+      "type": [
+        "normal",
+        "flying"
+      ],
+      "weakness": [
+        "electric",
+        "ice",
+        "rock"
+      ],
       "weight": 29982,
       "height": 109.22,
       "sprite": "sprites/pidgeotto.png",
@@ -244,8 +361,15 @@
       "code": "pidgeot",
       "name": "Pidgeot",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["normal", "flying"],
-      "weakness": ["electric", "ice", "rock"],
+      "type": [
+        "normal",
+        "flying"
+      ],
+      "weakness": [
+        "electric",
+        "ice",
+        "rock"
+      ],
       "weight": 39508,
       "height": 149.86,
       "sprite": "sprites/pidgeot.png",
@@ -258,8 +382,12 @@
       "code": "rattata",
       "name": "Rattata",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["normal"],
-      "weakness": ["fighting"],
+      "type": [
+        "normal"
+      ],
+      "weakness": [
+        "fighting"
+      ],
       "weight": 3492,
       "height": 30.48,
       "sprite": "sprites/rattata.png",
@@ -272,8 +400,12 @@
       "code": "raticate",
       "name": "Raticate",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["normal"],
-      "weakness": ["fighting"],
+      "type": [
+        "normal"
+      ],
+      "weakness": [
+        "fighting"
+      ],
       "weight": 18506,
       "height": 71.12,
       "sprite": "sprites/raticate.png",
@@ -286,8 +418,15 @@
       "code": "spearow",
       "name": "Spearow",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["normal", "flying"],
-      "weakness": ["electric", "ice", "rock"],
+      "type": [
+        "normal",
+        "flying"
+      ],
+      "weakness": [
+        "electric",
+        "ice",
+        "rock"
+      ],
       "weight": 1995,
       "height": 30.48,
       "sprite": "sprites/spearow.png",
@@ -300,8 +439,15 @@
       "code": "fearow",
       "name": "Fearow",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["normal", "flying"],
-      "weakness": ["electric", "ice", "rock"],
+      "type": [
+        "normal",
+        "flying"
+      ],
+      "weakness": [
+        "electric",
+        "ice",
+        "rock"
+      ],
       "weight": 38011,
       "height": 119.38,
       "sprite": "sprites/fearow.png",
@@ -314,8 +460,13 @@
       "code": "ekans",
       "name": "Ekans",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["poison"],
-      "weakness": ["psychic", "ground"],
+      "type": [
+        "poison"
+      ],
+      "weakness": [
+        "psychic",
+        "ground"
+      ],
       "weight": 6894,
       "height": 200.66,
       "sprite": "sprites/ekans.png",
@@ -328,8 +479,13 @@
       "code": "arbok",
       "name": "Arbok",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["poison"],
-      "weakness": ["psychic", "ground"],
+      "type": [
+        "poison"
+      ],
+      "weakness": [
+        "psychic",
+        "ground"
+      ],
       "weight": 65000,
       "height": 350.52,
       "sprite": "sprites/arbok.png",
@@ -342,8 +498,12 @@
       "code": "pikachu",
       "name": "Pikachu",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["electric"],
-      "weakness": ["ground"],
+      "type": [
+        "electric"
+      ],
+      "weakness": [
+        "ground"
+      ],
       "weight": 5987,
       "height": 40.64,
       "sprite": "sprites/pikachu.png",
@@ -356,8 +516,12 @@
       "code": "raichu",
       "name": "Raichu",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["electric"],
-      "weakness": ["ground"],
+      "type": [
+        "electric"
+      ],
+      "weakness": [
+        "ground"
+      ],
       "weight": 29982,
       "height": 78.74,
       "sprite": "sprites/raichu.png",
@@ -370,8 +534,14 @@
       "code": "sandshrew",
       "name": "Sandshrew",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["ground"],
-      "weakness": ["water", "grass", "ice"],
+      "type": [
+        "ground"
+      ],
+      "weakness": [
+        "water",
+        "grass",
+        "ice"
+      ],
       "weight": 12020,
       "height": 60.96,
       "sprite": "sprites/sandshrew.png",
@@ -384,8 +554,14 @@
       "code": "sandslash",
       "name": "Sandslash",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["ground"],
-      "weakness": ["water", "grass", "ice"],
+      "type": [
+        "ground"
+      ],
+      "weakness": [
+        "water",
+        "grass",
+        "ice"
+      ],
       "weight": 29484,
       "height": 99.06,
       "sprite": "sprites/sandslash.png",
@@ -396,10 +572,15 @@
       "id": 29,
       "number": "029",
       "code": "nidoran-f",
-      "name": "Nidoran ♀",
+      "name": "Nidoran♀",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["poison"],
-      "weakness": ["psychic", "ground"],
+      "type": [
+        "poison"
+      ],
+      "weakness": [
+        "psychic",
+        "ground"
+      ],
       "weight": 6985,
       "height": 40.64,
       "sprite": "sprites/nidoran-f.png",
@@ -412,8 +593,13 @@
       "code": "nidorina",
       "name": "Nidorina",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["poison"],
-      "weakness": ["psychic", "ground"],
+      "type": [
+        "poison"
+      ],
+      "weakness": [
+        "psychic",
+        "ground"
+      ],
       "weight": 20003,
       "height": 78.74,
       "sprite": "sprites/nidorina.png",
@@ -426,8 +612,16 @@
       "code": "nidoqueen",
       "name": "Nidoqueen",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["poison", "ground"],
-      "weakness": ["water", "psychic", "ice", "ground"],
+      "type": [
+        "poison",
+        "ground"
+      ],
+      "weakness": [
+        "water",
+        "psychic",
+        "ice",
+        "ground"
+      ],
       "weight": 60011,
       "height": 129.54,
       "sprite": "sprites/nidoqueen.png",
@@ -438,10 +632,15 @@
       "id": 32,
       "number": "032",
       "code": "nidoran-m",
-      "name": "Nidoran ♂",
+      "name": "Nidoran♂",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["poison"],
-      "weakness": ["psychic", "ground"],
+      "type": [
+        "poison"
+      ],
+      "weakness": [
+        "psychic",
+        "ground"
+      ],
       "weight": 8981,
       "height": 50.8,
       "sprite": "sprites/nidoran-m.png",
@@ -454,8 +653,13 @@
       "code": "nidorino",
       "name": "Nidorino",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["poison"],
-      "weakness": ["psychic", "ground"],
+      "type": [
+        "poison"
+      ],
+      "weakness": [
+        "psychic",
+        "ground"
+      ],
       "weight": 19504,
       "height": 88.9,
       "sprite": "sprites/nidorino.png",
@@ -468,8 +672,16 @@
       "code": "nidoking",
       "name": "Nidoking",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["poison", "ground"],
-      "weakness": ["water", "psychic", "ice", "ground"],
+      "type": [
+        "poison",
+        "ground"
+      ],
+      "weakness": [
+        "water",
+        "psychic",
+        "ice",
+        "ground"
+      ],
       "weight": 62007,
       "height": 139.7,
       "sprite": "sprites/nidoking.png",
@@ -482,8 +694,13 @@
       "code": "clefairy",
       "name": "Clefairy",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["fairy"],
-      "weakness": ["steel", "poison"],
+      "type": [
+        "fairy"
+      ],
+      "weakness": [
+        "steel",
+        "poison"
+      ],
       "weight": 7484,
       "height": 60.96,
       "sprite": "sprites/clefairy.png",
@@ -496,8 +713,13 @@
       "code": "clefable",
       "name": "Clefable",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["fairy"],
-      "weakness": ["steel", "poison"],
+      "type": [
+        "fairy"
+      ],
+      "weakness": [
+        "steel",
+        "poison"
+      ],
       "weight": 40007,
       "height": 129.54,
       "sprite": "sprites/clefable.png",
@@ -510,8 +732,14 @@
       "code": "vulpix",
       "name": "Vulpix",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["fire"],
-      "weakness": ["water", "ground", "rock"],
+      "type": [
+        "fire"
+      ],
+      "weakness": [
+        "water",
+        "ground",
+        "rock"
+      ],
       "weight": 9888,
       "height": 60.96,
       "sprite": "sprites/vulpix.png",
@@ -524,8 +752,14 @@
       "code": "ninetales",
       "name": "Ninetales",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["fire"],
-      "weakness": ["water", "ground", "rock"],
+      "type": [
+        "fire"
+      ],
+      "weakness": [
+        "water",
+        "ground",
+        "rock"
+      ],
       "weight": 19913,
       "height": 109.22,
       "sprite": "sprites/ninetales.png",
@@ -538,8 +772,14 @@
       "code": "jigglypuff",
       "name": "Jigglypuff",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["normal", "fairy"],
-      "weakness": ["steel", "poison"],
+      "type": [
+        "normal",
+        "fairy"
+      ],
+      "weakness": [
+        "steel",
+        "poison"
+      ],
       "weight": 5488,
       "height": 50.8,
       "sprite": "sprites/jigglypuff.png",
@@ -552,8 +792,14 @@
       "code": "wigglytuff",
       "name": "Wigglytuff",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["normal", "fairy"],
-      "weakness": ["steel", "poison"],
+      "type": [
+        "normal",
+        "fairy"
+      ],
+      "weakness": [
+        "steel",
+        "poison"
+      ],
       "weight": 12020,
       "height": 99.06,
       "sprite": "sprites/wigglytuff.png",
@@ -566,8 +812,16 @@
       "code": "zubat",
       "name": "Zubat",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["poison", "flying"],
-      "weakness": ["psychic", "electric", "ice", "rock"],
+      "type": [
+        "poison",
+        "flying"
+      ],
+      "weakness": [
+        "psychic",
+        "electric",
+        "ice",
+        "rock"
+      ],
       "weight": 7484,
       "height": 78.74,
       "sprite": "sprites/zubat.png",
@@ -580,8 +834,16 @@
       "code": "golbat",
       "name": "Golbat",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["poison", "flying"],
-      "weakness": ["psychic", "electric", "ice", "rock"],
+      "type": [
+        "poison",
+        "flying"
+      ],
+      "weakness": [
+        "psychic",
+        "electric",
+        "ice",
+        "rock"
+      ],
       "weight": 55021,
       "height": 160.02,
       "sprite": "sprites/golbat.png",
@@ -594,8 +856,16 @@
       "code": "oddish",
       "name": "Oddish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["grass", "poison"],
-      "weakness": ["fire", "psychic", "flying", "ice"],
+      "type": [
+        "grass",
+        "poison"
+      ],
+      "weakness": [
+        "fire",
+        "psychic",
+        "flying",
+        "ice"
+      ],
       "weight": 5397,
       "height": 50.8,
       "sprite": "sprites/oddish.png",
@@ -608,8 +878,16 @@
       "code": "gloom",
       "name": "Gloom",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["grass", "poison"],
-      "weakness": ["fire", "psychic", "flying", "ice"],
+      "type": [
+        "grass",
+        "poison"
+      ],
+      "weakness": [
+        "fire",
+        "psychic",
+        "flying",
+        "ice"
+      ],
       "weight": 8618,
       "height": 78.74,
       "sprite": "sprites/gloom.png",
@@ -622,8 +900,16 @@
       "code": "vileplume",
       "name": "Vileplume",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["grass", "poison"],
-      "weakness": ["fire", "psychic", "flying", "ice"],
+      "type": [
+        "grass",
+        "poison"
+      ],
+      "weakness": [
+        "fire",
+        "psychic",
+        "flying",
+        "ice"
+      ],
       "weight": 18597,
       "height": 119.38,
       "sprite": "sprites/vileplume.png",
@@ -636,8 +922,18 @@
       "code": "paras",
       "name": "Paras",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["bug", "grass"],
-      "weakness": ["fire", "flying", "ice", "poison", "rock", "bug"],
+      "type": [
+        "bug",
+        "grass"
+      ],
+      "weakness": [
+        "fire",
+        "flying",
+        "ice",
+        "poison",
+        "rock",
+        "bug"
+      ],
       "weight": 5397,
       "height": 30.48,
       "sprite": "sprites/paras.png",
@@ -650,8 +946,18 @@
       "code": "parasect",
       "name": "Parasect",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["bug", "grass"],
-      "weakness": ["fire", "flying", "ice", "poison", "rock", "bug"],
+      "type": [
+        "bug",
+        "grass"
+      ],
+      "weakness": [
+        "fire",
+        "flying",
+        "ice",
+        "poison",
+        "rock",
+        "bug"
+      ],
       "weight": 29484,
       "height": 99.06,
       "sprite": "sprites/parasect.png",
@@ -664,8 +970,16 @@
       "code": "venonat",
       "name": "Venonat",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["bug", "poison"],
-      "weakness": ["fire", "psychic", "flying", "rock"],
+      "type": [
+        "bug",
+        "poison"
+      ],
+      "weakness": [
+        "fire",
+        "psychic",
+        "flying",
+        "rock"
+      ],
       "weight": 29982,
       "height": 99.06,
       "sprite": "sprites/venonat.png",
@@ -678,8 +992,16 @@
       "code": "venomoth",
       "name": "Venomoth",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["bug", "poison"],
-      "weakness": ["fire", "psychic", "flying", "rock"],
+      "type": [
+        "bug",
+        "poison"
+      ],
+      "weakness": [
+        "fire",
+        "psychic",
+        "flying",
+        "rock"
+      ],
       "weight": 12519,
       "height": 149.86,
       "sprite": "sprites/venomoth.png",
@@ -692,8 +1014,14 @@
       "code": "diglett",
       "name": "Diglett",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["ground"],
-      "weakness": ["water", "grass", "ice"],
+      "type": [
+        "ground"
+      ],
+      "weakness": [
+        "water",
+        "grass",
+        "ice"
+      ],
       "weight": 816,
       "height": 20.32,
       "sprite": "sprites/diglett.png",
@@ -706,8 +1034,14 @@
       "code": "dugtrio",
       "name": "Dugtrio",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["ground"],
-      "weakness": ["water", "grass", "ice"],
+      "type": [
+        "ground"
+      ],
+      "weakness": [
+        "water",
+        "grass",
+        "ice"
+      ],
       "weight": 33294,
       "height": 71.12,
       "sprite": "sprites/dugtrio.png",
@@ -720,8 +1054,12 @@
       "code": "meowth",
       "name": "Meowth",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["normal"],
-      "weakness": ["fighting"],
+      "type": [
+        "normal"
+      ],
+      "weakness": [
+        "fighting"
+      ],
       "weight": 4218,
       "height": 40.64,
       "sprite": "sprites/meowth.png",
@@ -734,8 +1072,12 @@
       "code": "persian",
       "name": "Persian",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["normal"],
-      "weakness": ["fighting"],
+      "type": [
+        "normal"
+      ],
+      "weakness": [
+        "fighting"
+      ],
       "weight": 31978,
       "height": 99.06,
       "sprite": "sprites/persian.png",
@@ -748,8 +1090,13 @@
       "code": "psyduck",
       "name": "Psyduck",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water"],
-      "weakness": ["grass", "electric"],
+      "type": [
+        "water"
+      ],
+      "weakness": [
+        "grass",
+        "electric"
+      ],
       "weight": 19595,
       "height": 78.74,
       "sprite": "sprites/psyduck.png",
@@ -762,8 +1109,13 @@
       "code": "golduck",
       "name": "Golduck",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water"],
-      "weakness": ["grass", "electric"],
+      "type": [
+        "water"
+      ],
+      "weakness": [
+        "grass",
+        "electric"
+      ],
       "weight": 76613,
       "height": 170.18,
       "sprite": "sprites/golduck.png",
@@ -776,8 +1128,14 @@
       "code": "mankey",
       "name": "Mankey",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["fighting"],
-      "weakness": ["psychic", "flying", "fairy"],
+      "type": [
+        "fighting"
+      ],
+      "weakness": [
+        "psychic",
+        "flying",
+        "fairy"
+      ],
       "weight": 27987,
       "height": 50.8,
       "sprite": "sprites/mankey.png",
@@ -790,8 +1148,14 @@
       "code": "primeape",
       "name": "Primeape",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["fighting"],
-      "weakness": ["psychic", "flying", "fairy"],
+      "type": [
+        "fighting"
+      ],
+      "weakness": [
+        "psychic",
+        "flying",
+        "fairy"
+      ],
       "weight": 31978,
       "height": 99.06,
       "sprite": "sprites/primeape.png",
@@ -804,8 +1168,14 @@
       "code": "growlithe",
       "name": "Growlithe",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["fire"],
-      "weakness": ["water", "ground", "rock"],
+      "type": [
+        "fire"
+      ],
+      "weakness": [
+        "water",
+        "ground",
+        "rock"
+      ],
       "weight": 19005,
       "height": 71.12,
       "sprite": "sprites/growlithe.png",
@@ -818,8 +1188,14 @@
       "code": "arcanine",
       "name": "Arcanine",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["fire"],
-      "weakness": ["water", "ground", "rock"],
+      "type": [
+        "fire"
+      ],
+      "weakness": [
+        "water",
+        "ground",
+        "rock"
+      ],
       "weight": 154995,
       "height": 190.5,
       "sprite": "sprites/arcanine.png",
@@ -832,8 +1208,13 @@
       "code": "poliwag",
       "name": "Poliwag",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water"],
-      "weakness": ["grass", "electric"],
+      "type": [
+        "water"
+      ],
+      "weakness": [
+        "grass",
+        "electric"
+      ],
       "weight": 12383,
       "height": 60.96,
       "sprite": "sprites/poliwag.png",
@@ -846,8 +1227,13 @@
       "code": "poliwhirl",
       "name": "Poliwhirl",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water"],
-      "weakness": ["grass", "electric"],
+      "type": [
+        "water"
+      ],
+      "weakness": [
+        "grass",
+        "electric"
+      ],
       "weight": 20003,
       "height": 99.06,
       "sprite": "sprites/poliwhirl.png",
@@ -860,8 +1246,17 @@
       "code": "poliwrath",
       "name": "Poliwrath",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water", "fighting"],
-      "weakness": ["fairy", "grass", "flying", "psychic", "electric"],
+      "type": [
+        "water",
+        "fighting"
+      ],
+      "weakness": [
+        "fairy",
+        "grass",
+        "flying",
+        "psychic",
+        "electric"
+      ],
       "weight": 53978,
       "height": 129.54,
       "sprite": "sprites/poliwrath.png",
@@ -874,8 +1269,14 @@
       "code": "abra",
       "name": "Abra",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["psychic"],
-      "weakness": ["ghost", "dark", "bug"],
+      "type": [
+        "psychic"
+      ],
+      "weakness": [
+        "ghost",
+        "dark",
+        "bug"
+      ],
       "weight": 19504,
       "height": 88.9,
       "sprite": "sprites/abra.png",
@@ -888,8 +1289,14 @@
       "code": "kadabra",
       "name": "Kadabra",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["psychic"],
-      "weakness": ["ghost", "dark", "bug"],
+      "type": [
+        "psychic"
+      ],
+      "weakness": [
+        "ghost",
+        "dark",
+        "bug"
+      ],
       "weight": 56518,
       "height": 129.54,
       "sprite": "sprites/kadabra.png",
@@ -902,8 +1309,14 @@
       "code": "alakazam",
       "name": "Alakazam",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["psychic"],
-      "weakness": ["ghost", "dark", "bug"],
+      "type": [
+        "psychic"
+      ],
+      "weakness": [
+        "ghost",
+        "dark",
+        "bug"
+      ],
       "weight": 47990,
       "height": 149.86,
       "sprite": "sprites/alakazam.png",
@@ -916,8 +1329,14 @@
       "code": "machop",
       "name": "Machop",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["fighting"],
-      "weakness": ["psychic", "flying", "fairy"],
+      "type": [
+        "fighting"
+      ],
+      "weakness": [
+        "psychic",
+        "flying",
+        "fairy"
+      ],
       "weight": 19504,
       "height": 78.74,
       "sprite": "sprites/machop.png",
@@ -930,8 +1349,14 @@
       "code": "machoke",
       "name": "Machoke",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["fighting"],
-      "weakness": ["psychic", "flying", "fairy"],
+      "type": [
+        "fighting"
+      ],
+      "weakness": [
+        "psychic",
+        "flying",
+        "fairy"
+      ],
       "weight": 70489,
       "height": 149.86,
       "sprite": "sprites/machoke.png",
@@ -944,8 +1369,14 @@
       "code": "machamp",
       "name": "Machamp",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["fighting"],
-      "weakness": ["psychic", "flying", "fairy"],
+      "type": [
+        "fighting"
+      ],
+      "weakness": [
+        "psychic",
+        "flying",
+        "fairy"
+      ],
       "weight": 130001,
       "height": 160.02,
       "sprite": "sprites/machamp.png",
@@ -958,8 +1389,16 @@
       "code": "bellsprout",
       "name": "Bellsprout",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["grass", "poison"],
-      "weakness": ["fire", "psychic", "flying", "ice"],
+      "type": [
+        "grass",
+        "poison"
+      ],
+      "weakness": [
+        "fire",
+        "psychic",
+        "flying",
+        "ice"
+      ],
       "weight": 3991,
       "height": 71.12,
       "sprite": "sprites/bellsprout.png",
@@ -972,8 +1411,16 @@
       "code": "weepinbell",
       "name": "Weepinbell",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["grass", "poison"],
-      "weakness": ["fire", "psychic", "flying", "ice"],
+      "type": [
+        "grass",
+        "poison"
+      ],
+      "weakness": [
+        "fire",
+        "psychic",
+        "flying",
+        "ice"
+      ],
       "weight": 6395,
       "height": 99.06,
       "sprite": "sprites/weepinbell.png",
@@ -986,8 +1433,16 @@
       "code": "victreebel",
       "name": "Victreebel",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["grass", "poison"],
-      "weakness": ["fire", "psychic", "flying", "ice"],
+      "type": [
+        "grass",
+        "poison"
+      ],
+      "weakness": [
+        "fire",
+        "psychic",
+        "flying",
+        "ice"
+      ],
       "weight": 15513,
       "height": 170.18,
       "sprite": "sprites/victreebel.png",
@@ -1000,8 +1455,15 @@
       "code": "tentacool",
       "name": "Tentacool",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water", "poison"],
-      "weakness": ["psychic", "electric", "ground"],
+      "type": [
+        "water",
+        "poison"
+      ],
+      "weakness": [
+        "psychic",
+        "electric",
+        "ground"
+      ],
       "weight": 45496,
       "height": 88.9,
       "sprite": "sprites/tentacool.png",
@@ -1014,8 +1476,15 @@
       "code": "tentacruel",
       "name": "Tentacruel",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water", "poison"],
-      "weakness": ["psychic", "electric", "ground"],
+      "type": [
+        "water",
+        "poison"
+      ],
+      "weakness": [
+        "psychic",
+        "electric",
+        "ground"
+      ],
       "weight": 55021,
       "height": 160.02,
       "sprite": "sprites/tentacruel.png",
@@ -1028,8 +1497,18 @@
       "code": "geodude",
       "name": "Geodude",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["rock", "ground"],
-      "weakness": ["steel", "fighting", "water", "ice", "grass", "ground"],
+      "type": [
+        "rock",
+        "ground"
+      ],
+      "weakness": [
+        "steel",
+        "fighting",
+        "water",
+        "ice",
+        "grass",
+        "ground"
+      ],
       "weight": 20003,
       "height": 40.64,
       "sprite": "sprites/geodude.png",
@@ -1042,8 +1521,18 @@
       "code": "graveler",
       "name": "Graveler",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["rock", "ground"],
-      "weakness": ["steel", "fighting", "water", "ice", "grass", "ground"],
+      "type": [
+        "rock",
+        "ground"
+      ],
+      "weakness": [
+        "steel",
+        "fighting",
+        "water",
+        "ice",
+        "grass",
+        "ground"
+      ],
       "weight": 105008,
       "height": 99.06,
       "sprite": "sprites/graveler.png",
@@ -1056,8 +1545,18 @@
       "code": "golem",
       "name": "Golem",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["rock", "ground"],
-      "weakness": ["steel", "fighting", "water", "ice", "grass", "ground"],
+      "type": [
+        "rock",
+        "ground"
+      ],
+      "weakness": [
+        "steel",
+        "fighting",
+        "water",
+        "ice",
+        "grass",
+        "ground"
+      ],
       "weight": 300011,
       "height": 139.7,
       "sprite": "sprites/golem.png",
@@ -1070,8 +1569,14 @@
       "code": "ponyta",
       "name": "Ponyta",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["fire"],
-      "weakness": ["water", "ground", "rock"],
+      "type": [
+        "fire"
+      ],
+      "weakness": [
+        "water",
+        "ground",
+        "rock"
+      ],
       "weight": 29982,
       "height": 99.06,
       "sprite": "sprites/ponyta.png",
@@ -1084,8 +1589,14 @@
       "code": "rapidash",
       "name": "Rapidash",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["fire"],
-      "weakness": ["water", "ground", "rock"],
+      "type": [
+        "fire"
+      ],
+      "weakness": [
+        "water",
+        "ground",
+        "rock"
+      ],
       "weight": 94983,
       "height": 170.18,
       "sprite": "sprites/rapidash.png",
@@ -1098,8 +1609,17 @@
       "code": "slowpoke",
       "name": "Slowpoke",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water", "psychic"],
-      "weakness": ["ghost", "dark", "grass", "electric", "bug"],
+      "type": [
+        "water",
+        "psychic"
+      ],
+      "weakness": [
+        "ghost",
+        "dark",
+        "grass",
+        "electric",
+        "bug"
+      ],
       "weight": 36015,
       "height": 119.38,
       "sprite": "sprites/slowpoke.png",
@@ -1112,8 +1632,17 @@
       "code": "slowbro",
       "name": "Slowbro",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water", "psychic"],
-      "weakness": ["ghost", "dark", "grass", "electric", "bug"],
+      "type": [
+        "water",
+        "psychic"
+      ],
+      "weakness": [
+        "ghost",
+        "dark",
+        "grass",
+        "electric",
+        "bug"
+      ],
       "weight": 78518,
       "height": 160.02,
       "sprite": "sprites/slowbro.png",
@@ -1126,8 +1655,15 @@
       "code": "magnemite",
       "name": "Magnemite",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["electric", "steel"],
-      "weakness": ["fire", "fighting", "ground"],
+      "type": [
+        "electric",
+        "steel"
+      ],
+      "weakness": [
+        "fire",
+        "fighting",
+        "ground"
+      ],
       "weight": 5987,
       "height": 30.48,
       "sprite": "sprites/magnemite.png",
@@ -1140,8 +1676,15 @@
       "code": "magneton",
       "name": "Magneton",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["electric", "steel"],
-      "weakness": ["fire", "fighting", "ground"],
+      "type": [
+        "electric",
+        "steel"
+      ],
+      "weakness": [
+        "fire",
+        "fighting",
+        "ground"
+      ],
       "weight": 60011,
       "height": 99.06,
       "sprite": "sprites/magneton.png",
@@ -1154,8 +1697,15 @@
       "code": "farfetchd",
       "name": "Farfetch'd",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["normal", "flying"],
-      "weakness": ["electric", "ice", "rock"],
+      "type": [
+        "normal",
+        "flying"
+      ],
+      "weakness": [
+        "electric",
+        "ice",
+        "rock"
+      ],
       "weight": 15014,
       "height": 78.74,
       "sprite": "sprites/farfetchd.png",
@@ -1168,8 +1718,15 @@
       "code": "doduo",
       "name": "Doduo",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["normal", "flying"],
-      "weakness": ["electric", "ice", "rock"],
+      "type": [
+        "normal",
+        "flying"
+      ],
+      "weakness": [
+        "electric",
+        "ice",
+        "rock"
+      ],
       "weight": 39191,
       "height": 139.7,
       "sprite": "sprites/doduo.png",
@@ -1182,8 +1739,15 @@
       "code": "dodrio",
       "name": "Dodrio",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["normal", "flying"],
-      "weakness": ["electric", "ice", "rock"],
+      "type": [
+        "normal",
+        "flying"
+      ],
+      "weakness": [
+        "electric",
+        "ice",
+        "rock"
+      ],
       "weight": 85186,
       "height": 180.34,
       "sprite": "sprites/dodrio.png",
@@ -1196,8 +1760,13 @@
       "code": "seel",
       "name": "Seel",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water"],
-      "weakness": ["grass", "electric"],
+      "type": [
+        "water"
+      ],
+      "weakness": [
+        "grass",
+        "electric"
+      ],
       "weight": 89994,
       "height": 109.22,
       "sprite": "sprites/seel.png",
@@ -1210,8 +1779,16 @@
       "code": "dewgong",
       "name": "Dewgong",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water", "ice"],
-      "weakness": ["grass", "electric", "fighting", "rock"],
+      "type": [
+        "water",
+        "ice"
+      ],
+      "weakness": [
+        "grass",
+        "electric",
+        "fighting",
+        "rock"
+      ],
       "weight": 120022,
       "height": 170.18,
       "sprite": "sprites/dewgong.png",
@@ -1224,8 +1801,13 @@
       "code": "grimer",
       "name": "Grimer",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["poison"],
-      "weakness": ["psychic", "ground"],
+      "type": [
+        "poison"
+      ],
+      "weakness": [
+        "psychic",
+        "ground"
+      ],
       "weight": 29982,
       "height": 88.9,
       "sprite": "sprites/grimer.png",
@@ -1238,8 +1820,13 @@
       "code": "muk",
       "name": "Muk",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["poison"],
-      "weakness": ["psychic", "ground"],
+      "type": [
+        "poison"
+      ],
+      "weakness": [
+        "psychic",
+        "ground"
+      ],
       "weight": 29982,
       "height": 119.38,
       "sprite": "sprites/muk.png",
@@ -1252,8 +1839,13 @@
       "code": "shellder",
       "name": "Shellder",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water"],
-      "weakness": ["grass", "electric"],
+      "type": [
+        "water"
+      ],
+      "weakness": [
+        "grass",
+        "electric"
+      ],
       "weight": 3991,
       "height": 30.48,
       "sprite": "sprites/shellder.png",
@@ -1266,8 +1858,16 @@
       "code": "cloyster",
       "name": "Cloyster",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water", "ice"],
-      "weakness": ["grass", "electric", "fighting", "rock"],
+      "type": [
+        "water",
+        "ice"
+      ],
+      "weakness": [
+        "grass",
+        "electric",
+        "fighting",
+        "rock"
+      ],
       "weight": 132496,
       "height": 149.86,
       "sprite": "sprites/cloyster.png",
@@ -1280,8 +1880,16 @@
       "code": "gastly",
       "name": "Gastly",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["ghost", "poison"],
-      "weakness": ["ghost", "dark", "psychic", "ground"],
+      "type": [
+        "ghost",
+        "poison"
+      ],
+      "weakness": [
+        "ghost",
+        "dark",
+        "psychic",
+        "ground"
+      ],
       "weight": 90,
       "height": 129.54,
       "sprite": "sprites/gastly.png",
@@ -1294,8 +1902,16 @@
       "code": "haunter",
       "name": "Haunter",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["ghost", "poison"],
-      "weakness": ["ghost", "dark", "psychic", "ground"],
+      "type": [
+        "ghost",
+        "poison"
+      ],
+      "weakness": [
+        "ghost",
+        "dark",
+        "psychic",
+        "ground"
+      ],
       "weight": 90,
       "height": 160.02,
       "sprite": "sprites/haunter.png",
@@ -1308,8 +1924,16 @@
       "code": "gengar",
       "name": "Gengar",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["ghost", "poison"],
-      "weakness": ["ghost", "dark", "psychic", "ground"],
+      "type": [
+        "ghost",
+        "poison"
+      ],
+      "weakness": [
+        "ghost",
+        "dark",
+        "psychic",
+        "ground"
+      ],
       "weight": 40506,
       "height": 149.86,
       "sprite": "sprites/gengar.png",
@@ -1322,8 +1946,18 @@
       "code": "onix",
       "name": "Onix",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["rock", "ground"],
-      "weakness": ["steel", "fighting", "water", "ice", "grass", "ground"],
+      "type": [
+        "rock",
+        "ground"
+      ],
+      "weakness": [
+        "steel",
+        "fighting",
+        "water",
+        "ice",
+        "grass",
+        "ground"
+      ],
       "weight": 210016,
       "height": 878.84,
       "sprite": "sprites/onix.png",
@@ -1336,8 +1970,14 @@
       "code": "drowzee",
       "name": "Drowzee",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["psychic"],
-      "weakness": ["ghost", "dark", "bug"],
+      "type": [
+        "psychic"
+      ],
+      "weakness": [
+        "ghost",
+        "dark",
+        "bug"
+      ],
       "weight": 32387,
       "height": 99.06,
       "sprite": "sprites/drowzee.png",
@@ -1350,8 +1990,14 @@
       "code": "hypno",
       "name": "Hypno",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["psychic"],
-      "weakness": ["ghost", "dark", "bug"],
+      "type": [
+        "psychic"
+      ],
+      "weakness": [
+        "ghost",
+        "dark",
+        "bug"
+      ],
       "weight": 75615,
       "height": 160.02,
       "sprite": "sprites/hypno.png",
@@ -1364,8 +2010,13 @@
       "code": "krabby",
       "name": "Krabby",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water"],
-      "weakness": ["grass", "electric"],
+      "type": [
+        "water"
+      ],
+      "weakness": [
+        "grass",
+        "electric"
+      ],
       "weight": 6486,
       "height": 40.64,
       "sprite": "sprites/krabby.png",
@@ -1378,8 +2029,13 @@
       "code": "kingler",
       "name": "Kingler",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water"],
-      "weakness": ["grass", "electric"],
+      "type": [
+        "water"
+      ],
+      "weakness": [
+        "grass",
+        "electric"
+      ],
       "weight": 60011,
       "height": 129.54,
       "sprite": "sprites/kingler.png",
@@ -1392,8 +2048,12 @@
       "code": "voltorb",
       "name": "Voltorb",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["electric"],
-      "weakness": ["ground"],
+      "type": [
+        "electric"
+      ],
+      "weakness": [
+        "ground"
+      ],
       "weight": 10387,
       "height": 50.8,
       "sprite": "sprites/voltorb.png",
@@ -1406,8 +2066,12 @@
       "code": "electrode",
       "name": "Electrode",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["electric"],
-      "weakness": ["ground"],
+      "type": [
+        "electric"
+      ],
+      "weakness": [
+        "ground"
+      ],
       "weight": 66588,
       "height": 119.38,
       "sprite": "sprites/electrode.png",
@@ -1420,8 +2084,19 @@
       "code": "exeggcute",
       "name": "Exeggcute",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["grass", "psychic"],
-      "weakness": ["ghost", "fire", "flying", "ice", "dark", "poison", "bug"],
+      "type": [
+        "grass",
+        "psychic"
+      ],
+      "weakness": [
+        "ghost",
+        "fire",
+        "flying",
+        "ice",
+        "dark",
+        "poison",
+        "bug"
+      ],
       "weight": 2494,
       "height": 40.64,
       "sprite": "sprites/exeggcute.png",
@@ -1434,8 +2109,19 @@
       "code": "exeggutor",
       "name": "Exeggutor",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["grass", "psychic"],
-      "weakness": ["ghost", "fire", "flying", "ice", "dark", "poison", "bug"],
+      "type": [
+        "grass",
+        "psychic"
+      ],
+      "weakness": [
+        "ghost",
+        "fire",
+        "flying",
+        "ice",
+        "dark",
+        "poison",
+        "bug"
+      ],
       "weight": 120022,
       "height": 200.66,
       "sprite": "sprites/exeggutor.png",
@@ -1448,8 +2134,14 @@
       "code": "cubone",
       "name": "Cubone",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["ground"],
-      "weakness": ["water", "grass", "ice"],
+      "type": [
+        "ground"
+      ],
+      "weakness": [
+        "water",
+        "grass",
+        "ice"
+      ],
       "weight": 6486,
       "height": 40.64,
       "sprite": "sprites/cubone.png",
@@ -1462,8 +2154,14 @@
       "code": "marowak",
       "name": "Marowak",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["ground"],
-      "weakness": ["water", "grass", "ice"],
+      "type": [
+        "ground"
+      ],
+      "weakness": [
+        "water",
+        "grass",
+        "ice"
+      ],
       "weight": 44997,
       "height": 99.06,
       "sprite": "sprites/marowak.png",
@@ -1476,8 +2174,14 @@
       "code": "hitmonlee",
       "name": "Hitmonlee",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["fighting"],
-      "weakness": ["psychic", "flying", "fairy"],
+      "type": [
+        "fighting"
+      ],
+      "weakness": [
+        "psychic",
+        "flying",
+        "fairy"
+      ],
       "weight": 49805,
       "height": 149.86,
       "sprite": "sprites/hitmonlee.png",
@@ -1490,8 +2194,14 @@
       "code": "hitmonchan",
       "name": "Hitmonchan",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["fighting"],
-      "weakness": ["psychic", "flying", "fairy"],
+      "type": [
+        "fighting"
+      ],
+      "weakness": [
+        "psychic",
+        "flying",
+        "fairy"
+      ],
       "weight": 50213,
       "height": 139.7,
       "sprite": "sprites/hitmonchan.png",
@@ -1504,8 +2214,12 @@
       "code": "lickitung",
       "name": "Lickitung",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["normal"],
-      "weakness": ["fighting"],
+      "type": [
+        "normal"
+      ],
+      "weakness": [
+        "fighting"
+      ],
       "weight": 65499,
       "height": 119.38,
       "sprite": "sprites/lickitung.png",
@@ -1518,8 +2232,13 @@
       "code": "koffing",
       "name": "Koffing",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["poison"],
-      "weakness": ["psychic", "ground"],
+      "type": [
+        "poison"
+      ],
+      "weakness": [
+        "psychic",
+        "ground"
+      ],
       "weight": 997,
       "height": 60.96,
       "sprite": "sprites/koffing.png",
@@ -1532,8 +2251,13 @@
       "code": "weezing",
       "name": "Weezing",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["poison"],
-      "weakness": ["psychic", "ground"],
+      "type": [
+        "poison"
+      ],
+      "weakness": [
+        "psychic",
+        "ground"
+      ],
       "weight": 9480,
       "height": 119.38,
       "sprite": "sprites/weezing.png",
@@ -1546,8 +2270,18 @@
       "code": "rhyhorn",
       "name": "Rhyhorn",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["ground", "rock"],
-      "weakness": ["steel", "ice", "water", "fighting", "grass", "ground"],
+      "type": [
+        "ground",
+        "rock"
+      ],
+      "weakness": [
+        "steel",
+        "ice",
+        "water",
+        "fighting",
+        "grass",
+        "ground"
+      ],
       "weight": 114987,
       "height": 99.06,
       "sprite": "sprites/rhyhorn.png",
@@ -1560,8 +2294,18 @@
       "code": "rhydon",
       "name": "Rhydon",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["ground", "rock"],
-      "weakness": ["steel", "ice", "water", "fighting", "grass", "ground"],
+      "type": [
+        "ground",
+        "rock"
+      ],
+      "weakness": [
+        "steel",
+        "ice",
+        "water",
+        "fighting",
+        "grass",
+        "ground"
+      ],
       "weight": 120022,
       "height": 190.5,
       "sprite": "sprites/rhydon.png",
@@ -1574,8 +2318,12 @@
       "code": "chansey",
       "name": "Chansey",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["normal"],
-      "weakness": ["fighting"],
+      "type": [
+        "normal"
+      ],
+      "weakness": [
+        "fighting"
+      ],
       "weight": 34609,
       "height": 109.22,
       "sprite": "sprites/chansey.png",
@@ -1588,8 +2336,16 @@
       "code": "tangela",
       "name": "Tangela",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["grass"],
-      "weakness": ["fire", "flying", "ice", "poison", "bug"],
+      "type": [
+        "grass"
+      ],
+      "weakness": [
+        "fire",
+        "flying",
+        "ice",
+        "poison",
+        "bug"
+      ],
       "weight": 35017,
       "height": 99.06,
       "sprite": "sprites/tangela.png",
@@ -1602,8 +2358,12 @@
       "code": "kangaskhan",
       "name": "Kangaskhan",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["normal"],
-      "weakness": ["fighting"],
+      "type": [
+        "normal"
+      ],
+      "weakness": [
+        "fighting"
+      ],
       "weight": 80015,
       "height": 220.98,
       "sprite": "sprites/kangaskhan.png",
@@ -1616,8 +2376,13 @@
       "code": "horsea",
       "name": "Horsea",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water"],
-      "weakness": ["grass", "electric"],
+      "type": [
+        "water"
+      ],
+      "weakness": [
+        "grass",
+        "electric"
+      ],
       "weight": 7983,
       "height": 40.64,
       "sprite": "sprites/horsea.png",
@@ -1630,8 +2395,13 @@
       "code": "seadra",
       "name": "Seadra",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water"],
-      "weakness": ["grass", "electric"],
+      "type": [
+        "water"
+      ],
+      "weakness": [
+        "grass",
+        "electric"
+      ],
       "weight": 24993,
       "height": 119.38,
       "sprite": "sprites/seadra.png",
@@ -1644,8 +2414,13 @@
       "code": "goldeen",
       "name": "Goldeen",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water"],
-      "weakness": ["grass", "electric"],
+      "type": [
+        "water"
+      ],
+      "weakness": [
+        "grass",
+        "electric"
+      ],
       "weight": 15014,
       "height": 60.96,
       "sprite": "sprites/goldeen.png",
@@ -1658,8 +2433,13 @@
       "code": "seaking",
       "name": "Seaking",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water"],
-      "weakness": ["grass", "electric"],
+      "type": [
+        "water"
+      ],
+      "weakness": [
+        "grass",
+        "electric"
+      ],
       "weight": 39009,
       "height": 129.54,
       "sprite": "sprites/seaking.png",
@@ -1672,8 +2452,13 @@
       "code": "staryu",
       "name": "Staryu",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water"],
-      "weakness": ["grass", "electric"],
+      "type": [
+        "water"
+      ],
+      "weakness": [
+        "grass",
+        "electric"
+      ],
       "weight": 34518,
       "height": 78.74,
       "sprite": "sprites/staryu.png",
@@ -1686,8 +2471,17 @@
       "code": "starmie",
       "name": "Starmie",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water", "psychic"],
-      "weakness": ["ghost", "dark", "grass", "electric", "bug"],
+      "type": [
+        "water",
+        "psychic"
+      ],
+      "weakness": [
+        "ghost",
+        "dark",
+        "grass",
+        "electric",
+        "bug"
+      ],
       "weight": 80015,
       "height": 109.22,
       "sprite": "sprites/starmie.png",
@@ -1700,8 +2494,15 @@
       "code": "mr-mime",
       "name": "Mr. Mime",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["psychic", "fairy"],
-      "weakness": ["ghost", "steel", "poison"],
+      "type": [
+        "psychic",
+        "fairy"
+      ],
+      "weakness": [
+        "ghost",
+        "steel",
+        "poison"
+      ],
       "weight": 54522,
       "height": 129.54,
       "sprite": "sprites/mr-mime.png",
@@ -1714,8 +2515,17 @@
       "code": "scyther",
       "name": "Scyther",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["bug", "flying"],
-      "weakness": ["fire", "flying", "electric", "ice", "rock"],
+      "type": [
+        "bug",
+        "flying"
+      ],
+      "weakness": [
+        "fire",
+        "flying",
+        "electric",
+        "ice",
+        "rock"
+      ],
       "weight": 56019,
       "height": 149.86,
       "sprite": "sprites/scyther.png",
@@ -1728,8 +2538,18 @@
       "code": "jynx",
       "name": "Jynx",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["ice", "psychic"],
-      "weakness": ["steel", "ghost", "fire", "dark", "rock", "bug"],
+      "type": [
+        "ice",
+        "psychic"
+      ],
+      "weakness": [
+        "steel",
+        "ghost",
+        "fire",
+        "dark",
+        "rock",
+        "bug"
+      ],
       "weight": 40597,
       "height": 139.7,
       "sprite": "sprites/jynx.png",
@@ -1742,8 +2562,12 @@
       "code": "electabuzz",
       "name": "Electabuzz",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["electric"],
-      "weakness": ["ground"],
+      "type": [
+        "electric"
+      ],
+      "weakness": [
+        "ground"
+      ],
       "weight": 29982,
       "height": 109.22,
       "sprite": "sprites/electabuzz.png",
@@ -1756,8 +2580,14 @@
       "code": "magmar",
       "name": "Magmar",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["fire"],
-      "weakness": ["water", "ground", "rock"],
+      "type": [
+        "fire"
+      ],
+      "weakness": [
+        "water",
+        "ground",
+        "rock"
+      ],
       "weight": 44498,
       "height": 129.54,
       "sprite": "sprites/magmar.png",
@@ -1770,8 +2600,14 @@
       "code": "pinsir",
       "name": "Pinsir",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["bug"],
-      "weakness": ["fire", "flying", "rock"],
+      "type": [
+        "bug"
+      ],
+      "weakness": [
+        "fire",
+        "flying",
+        "rock"
+      ],
       "weight": 55021,
       "height": 149.86,
       "sprite": "sprites/pinsir.png",
@@ -1784,8 +2620,12 @@
       "code": "tauros",
       "name": "Tauros",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["normal"],
-      "weakness": ["fighting"],
+      "type": [
+        "normal"
+      ],
+      "weakness": [
+        "fighting"
+      ],
       "weight": 88406,
       "height": 139.7,
       "sprite": "sprites/tauros.png",
@@ -1798,8 +2638,13 @@
       "code": "magikarp",
       "name": "Magikarp",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water"],
-      "weakness": ["grass", "electric"],
+      "type": [
+        "water"
+      ],
+      "weakness": [
+        "grass",
+        "electric"
+      ],
       "weight": 9979,
       "height": 88.9,
       "sprite": "sprites/magikarp.png",
@@ -1812,8 +2657,14 @@
       "code": "gyarados",
       "name": "Gyarados",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water", "flying"],
-      "weakness": ["electric", "rock"],
+      "type": [
+        "water",
+        "flying"
+      ],
+      "weakness": [
+        "electric",
+        "rock"
+      ],
       "weight": 235010,
       "height": 650.24,
       "sprite": "sprites/gyarados.png",
@@ -1826,8 +2677,16 @@
       "code": "lapras",
       "name": "Lapras",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water", "ice"],
-      "weakness": ["grass", "electric", "fighting", "rock"],
+      "type": [
+        "water",
+        "ice"
+      ],
+      "weakness": [
+        "grass",
+        "electric",
+        "fighting",
+        "rock"
+      ],
       "weight": 219996,
       "height": 248.92,
       "sprite": "sprites/lapras.png",
@@ -1840,8 +2699,12 @@
       "code": "ditto",
       "name": "Ditto",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["normal"],
-      "weakness": ["fighting"],
+      "type": [
+        "normal"
+      ],
+      "weakness": [
+        "fighting"
+      ],
       "weight": 3991,
       "height": 30.48,
       "sprite": "sprites/ditto.png",
@@ -1854,8 +2717,12 @@
       "code": "eevee",
       "name": "Eevee",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["normal"],
-      "weakness": ["fighting"],
+      "type": [
+        "normal"
+      ],
+      "weakness": [
+        "fighting"
+      ],
       "weight": 6486,
       "height": 30.48,
       "sprite": "sprites/eevee.png",
@@ -1868,8 +2735,13 @@
       "code": "vaporeon",
       "name": "Vaporeon",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["water"],
-      "weakness": ["grass", "electric"],
+      "type": [
+        "water"
+      ],
+      "weakness": [
+        "grass",
+        "electric"
+      ],
       "weight": 28985,
       "height": 99.06,
       "sprite": "sprites/vaporeon.png",
@@ -1882,8 +2754,12 @@
       "code": "jolteon",
       "name": "Jolteon",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["electric"],
-      "weakness": ["ground"],
+      "type": [
+        "electric"
+      ],
+      "weakness": [
+        "ground"
+      ],
       "weight": 24494,
       "height": 78.74,
       "sprite": "sprites/jolteon.png",
@@ -1896,8 +2772,14 @@
       "code": "flareon",
       "name": "Flareon",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["fire"],
-      "weakness": ["water", "ground", "rock"],
+      "type": [
+        "fire"
+      ],
+      "weakness": [
+        "water",
+        "ground",
+        "rock"
+      ],
       "weight": 24993,
       "height": 88.9,
       "sprite": "sprites/flareon.png",
@@ -1910,8 +2792,12 @@
       "code": "porygon",
       "name": "Porygon",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["normal"],
-      "weakness": ["fighting"],
+      "type": [
+        "normal"
+      ],
+      "weakness": [
+        "fighting"
+      ],
       "weight": 36514,
       "height": 78.74,
       "sprite": "sprites/porygon.png",
@@ -1924,8 +2810,16 @@
       "code": "omanyte",
       "name": "Omanyte",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["rock", "water"],
-      "weakness": ["grass", "electric", "fighting", "ground"],
+      "type": [
+        "rock",
+        "water"
+      ],
+      "weakness": [
+        "grass",
+        "electric",
+        "fighting",
+        "ground"
+      ],
       "weight": 7484,
       "height": 40.64,
       "sprite": "sprites/omanyte.png",
@@ -1938,8 +2832,16 @@
       "code": "omastar",
       "name": "Omastar",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["rock", "water"],
-      "weakness": ["grass", "electric", "fighting", "ground"],
+      "type": [
+        "rock",
+        "water"
+      ],
+      "weakness": [
+        "grass",
+        "electric",
+        "fighting",
+        "ground"
+      ],
       "weight": 35017,
       "height": 99.06,
       "sprite": "sprites/omastar.png",
@@ -1952,8 +2854,16 @@
       "code": "kabuto",
       "name": "Kabuto",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["rock", "water"],
-      "weakness": ["grass", "electric", "fighting", "ground"],
+      "type": [
+        "rock",
+        "water"
+      ],
+      "weakness": [
+        "grass",
+        "electric",
+        "fighting",
+        "ground"
+      ],
       "weight": 11521,
       "height": 50.8,
       "sprite": "sprites/kabuto.png",
@@ -1966,8 +2876,16 @@
       "code": "kabutops",
       "name": "Kabutops",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["rock", "water"],
-      "weakness": ["grass", "electric", "fighting", "ground"],
+      "type": [
+        "rock",
+        "water"
+      ],
+      "weakness": [
+        "grass",
+        "electric",
+        "fighting",
+        "ground"
+      ],
       "weight": 40506,
       "height": 129.54,
       "sprite": "sprites/kabutops.png",
@@ -1980,8 +2898,17 @@
       "code": "aerodactyl",
       "name": "Aerodactyl",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["rock", "flying"],
-      "weakness": ["steel", "water", "electric", "ice", "rock"],
+      "type": [
+        "rock",
+        "flying"
+      ],
+      "weakness": [
+        "steel",
+        "water",
+        "electric",
+        "ice",
+        "rock"
+      ],
       "weight": 59013,
       "height": 180.34,
       "sprite": "sprites/aerodactyl.png",
@@ -1994,8 +2921,12 @@
       "code": "snorlax",
       "name": "Snorlax",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["normal"],
-      "weakness": ["fighting"],
+      "type": [
+        "normal"
+      ],
+      "weakness": [
+        "fighting"
+      ],
       "weight": 459995,
       "height": 210.82,
       "sprite": "sprites/snorlax.png",
@@ -2008,8 +2939,16 @@
       "code": "articuno",
       "name": "Articuno",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["ice", "flying"],
-      "weakness": ["steel", "fire", "electric", "rock"],
+      "type": [
+        "ice",
+        "flying"
+      ],
+      "weakness": [
+        "steel",
+        "fire",
+        "electric",
+        "rock"
+      ],
       "weight": 55384,
       "height": 170.18,
       "sprite": "sprites/articuno.png",
@@ -2022,8 +2961,14 @@
       "code": "zapdos",
       "name": "Zapdos",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["electric", "flying"],
-      "weakness": ["ice", "rock"],
+      "type": [
+        "electric",
+        "flying"
+      ],
+      "weakness": [
+        "ice",
+        "rock"
+      ],
       "weight": 52617,
       "height": 160.02,
       "sprite": "sprites/zapdos.png",
@@ -2036,8 +2981,15 @@
       "code": "moltres",
       "name": "Moltres",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["fire", "flying"],
-      "weakness": ["water", "electric", "rock"],
+      "type": [
+        "fire",
+        "flying"
+      ],
+      "weakness": [
+        "water",
+        "electric",
+        "rock"
+      ],
       "weight": 60011,
       "height": 200.66,
       "sprite": "sprites/moltres.png",
@@ -2050,8 +3002,14 @@
       "code": "dratini",
       "name": "Dratini",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["dragon"],
-      "weakness": ["fairy", "ice", "dragon"],
+      "type": [
+        "dragon"
+      ],
+      "weakness": [
+        "fairy",
+        "ice",
+        "dragon"
+      ],
       "weight": 3311,
       "height": 180.34,
       "sprite": "sprites/dratini.png",
@@ -2064,8 +3022,14 @@
       "code": "dragonair",
       "name": "Dragonair",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["dragon"],
-      "weakness": ["fairy", "ice", "dragon"],
+      "type": [
+        "dragon"
+      ],
+      "weakness": [
+        "fairy",
+        "ice",
+        "dragon"
+      ],
       "weight": 16511,
       "height": 398.78,
       "sprite": "sprites/dragonair.png",
@@ -2078,8 +3042,16 @@
       "code": "dragonite",
       "name": "Dragonite",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["dragon", "flying"],
-      "weakness": ["fairy", "dragon", "ice", "rock"],
+      "type": [
+        "dragon",
+        "flying"
+      ],
+      "weakness": [
+        "fairy",
+        "dragon",
+        "ice",
+        "rock"
+      ],
       "weight": 210016,
       "height": 220.98,
       "sprite": "sprites/dragonite.png",
@@ -2092,8 +3064,14 @@
       "code": "mewtwo",
       "name": "Mewtwo",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["psychic"],
-      "weakness": ["ghost", "dark", "bug"],
+      "type": [
+        "psychic"
+      ],
+      "weakness": [
+        "ghost",
+        "dark",
+        "bug"
+      ],
       "weight": 122018,
       "height": 200.66,
       "sprite": "sprites/mewtwo.png",
@@ -2106,8 +3084,14 @@
       "code": "mew",
       "name": "Mew",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus.",
-      "type": ["psychic"],
-      "weakness": ["ghost", "dark", "bug"],
+      "type": [
+        "psychic"
+      ],
+      "weakness": [
+        "ghost",
+        "dark",
+        "bug"
+      ],
       "weight": 3991,
       "height": 40.64,
       "sprite": "sprites/mew.png",

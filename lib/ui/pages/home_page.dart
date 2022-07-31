@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:pokedex_app/core/controllers/pokemon_controller.dart';
 import 'package:pokedex_app/ui/styles/colors.dart';
 import 'package:pokedex_app/ui/styles/text_styles.dart';
-import 'package:pokedex_app/ui/widgets/square_icon_button.dart';
 import 'package:pokedex_app/ui/widgets/pokemon_tile.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 import 'package:get/get.dart';
@@ -38,13 +37,9 @@ class HomePage extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
           Text(
-            "Pokemon",
+            "PokeDEX",
             style: titleTextStyle.copyWith(fontSize: 32),
-          ),
-          SquareIconButton(
-            onTap: () {},
-            icon: Icons.search,
-          ),
+          )
         ],
       ),
     );

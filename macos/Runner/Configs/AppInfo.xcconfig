@@ -8,7 +8,7 @@
 PRODUCT_NAME = pokedex_app
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.pokedexApp
+PRODUCT_BUNDLE_IDENTIFIER = com.mramundo.dex
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2022 com.example. All rights reserved.
