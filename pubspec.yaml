@@ -1,0 +1,30 @@
+name: pokedex_app
+description: PokeDEX
+publish_to: "none"
+version: 1.0.0+1
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  get: ^4.6.5
+  google_fonts: ^3.0.1
+  intl: ^0.17.0
+  flutter_staggered_grid_view: ^0.6.2
+
+dev_dependencies:
+  flutter_lints: ^2.0.1
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/
+    - assets/images/normal/
+    - assets/images/shiny/
+    - assets/images/sprites/
+    - assets/json/
